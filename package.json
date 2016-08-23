@@ -1,0 +1,20 @@
+{
+  "name": "bxdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/direct808/bxdl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/direct808/bxdl/issues"
+  },
+  "homepage": "https://github.com/direct808/bxdl#readme"
+}
